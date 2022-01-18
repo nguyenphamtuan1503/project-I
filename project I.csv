@@ -1,0 +1,105 @@
+﻿Tên bệnh nhân ,Mã Hoạt Động , Lần Thứ  ,Tay , Start ,Stop 
+bệnh nhân 1 ,5,1,trái ,0p0s,56s03
+bệnh nhân 1 ,5,2,trái ,1p11s17,1p51s03
+bệnh nhân 1 ,5,1,phải ,1s07,10s08
+bệnh nhân 1 ,5,2,phải ,13s14,25s20
+bệnh nhân 1 ,5,3,phải ,31s05,40s21
+bệnh nhân 1 ,5,4,phải ,41s22,52s08
+bệnh nhân 1 ,6,1,phải ,0p0s,3s01
+bệnh nhân 1 ,6,2,phải ,3s20,9s08
+bệnh nhân 1 ,6,3,phải ,9s24,13s11
+bệnh nhân 1 ,6,4,phải ,13s24,18s00
+bệnh nhân 1 ,6,5,phải ,20s21,39s08
+bệnh nhân 1 ,6,1,trái ,0p0s,1p1s00
+bệnh nhân 1 ,6,2,trái ,1p9s27,1p35s00
+bệnh nhân 1 ,6,3,trái ,1p48s23,2p9s03
+bệnh nhân 1 ,6,4,trái ,2p13s00,2p21s13
+bệnh nhân 1 ,6,5,trái ,ko có ,ko có 
+bệnh nhân 1 ,7,1,trái ,0s10,29s26
+bệnh nhân 1 ,7,2,trái ,31s02,57s07
+bệnh nhân 1 ,7,3,trái ,57s24,1p6s25
+bệnh nhân 1 ,7,4,trái ,1p34s03,1p44s06
+bệnh nhân 1 ,7,1,phải ,0p0s,3s16
+bệnh nhân 1 ,7,2,phải ,6s02,10s24
+bệnh nhân 1 ,7,3,phải ,11s03,16s19
+bệnh nhân 1 ,7,4,phải ,17s23,21s15
+bệnh nhân 1 ,7,5,phải ,22s02,26s22
+bệnh nhân 1 ,8,1,trái ,0p0s,54s19
+bệnh nhân 1 ,8,2,trái ,55s10,1p38s12
+bệnh nhân 1 ,8,1,phải ,0s07,9s09
+bệnh nhân 1 ,8,2,phải ,12s00,19s01
+bệnh nhân 2,5,1,trái ,0p0s,7s03
+bệnh nhân 2,5,2,trái ,7s29,13s11
+bệnh nhân 2,5,3,trái ,13s29,19s06
+bệnh nhân 2,5,4,trái ,19s13,23s26
+bệnh nhân 2,5,5,trái ,24s11,28s24
+bệnh nhân 2,5,6,trái ,29s,33s13
+bệnh nhân 2 ,5,1,phải ,4s04,7s09
+bệnh nhân 2,5,2,phải ,7s17,10s09
+bệnh nhân 2 ,5,3,phải ,10s18,13s21
+bệnh nhân 2,5,4,phải ,14s00,17s09
+bệnh nhân 2,5,5,phải ,21s14,31s17
+bệnh nhân 2,5,6,phải ,32s01,37s11
+bệnh nhân 2,5,7,phải ,37s20,4s00
+bệnh nhân 2 ,5,1,trái ,0s00,8s15
+bệnh nhân 2,5,2,trái ,8s20,17s01
+bệnh nhân 2,5,3,trái ,17s15,24s19
+bệnh nhân 2,6,1,trái ,03s02,20s29
+bệnh nhân 2 ,6,2,trái ,22s05,28s29
+bệnh nhân 2 ,6,3,trái ,30s30,37s10
+bệnh nhân 2 ,6,4,trái ,38s00,43s24
+bệnh nhân 2 ,6,5,trái ,44s14,50s19
+bệnh nhân 2 ,6,1,phải ,0p00s,5s23
+bệnh nhân 2 ,6,2,phải ,6s01,9s22
+bệnh nhân 2 ,6,3,phải ,10s03,13s24
+bệnh nhân 2 ,6,4,phải ,14s04,17s22
+bệnh nhân 2,6,5,phải ,18s00,20s15
+bệnh nhân 2,7,1,trái ,0p0s,6s13
+bệnh nhân 2,7,2,trái ,6s19,12s05
+bệnh nhân 2,7,3,trái ,12s19,18s06
+bệnh nhân 2,7,4,trái ,18s19,23s29
+bệnh nhân 2,7,1,phải ,4s12,17s19
+bệnh nhân 2,7,2,phải ,20s02,26s09
+bệnh nhân 2,7,3,phải,37s20,43s18
+bệnh nhân 2 ,7,4,phải,44s05,49s16
+bệnh nhân 2,7,5,phải,54s14,59s03
+bệnh nhân 2,7,6,phải,59s14,1p03s10
+bệnh nhân 2,8,1,phải,0p0s,7s05
+bệnh nhân 2,8,2,phải,7s26,12s19
+bệnh nhân 2,8,3,phải,13s16,18s07
+bệnh nhân 2 ,8,1,trái ,1s18,8s11
+bệnh nhân 2 ,8,2,trái ,10s01,17s13
+bệnh nhân 2,8,3,trái ,18s06,25s00
+bệnh nhân 2,8,4,trái ,26s02,34s26
+bệnh nhân 4,5,1,trái ,0p0s,9s07
+bệnh nhân 4,5,2,trái ,31s12,43s19
+bệnh nhân 4,5,3,trái ,1p1s21,1p12s07
+bệnh nhân 4,5,4,trái ,1p35s02,1p57s16
+bệnh nhân 4,5,1,phải,1s24,10s11
+bệnh nhân 4,6,1,trái ,0s28,15s14
+bệnh nhân 4,6,2,trái ,34s02,59s13
+bệnh nhân 4,6,3,trái ,1p9s16,1p30s27
+bệnh nhân 4,6,4,trái ,1p39s10,1p54s15
+bệnh nhân 4,6,1,phải ,1s14,11s29
+bệnh nhân 4,6,2,phải ,13s15,22s25
+bệnh nhân 4,6,3,phải ,24s13,32s28
+bệnh nhân 4,8,1,trái ,5s03,26s27
+bệnh nhân 4,8,2,trái ,30s08,51s29
+bệnh nhân 4,8,3,trái ,53s00,1p12s24
+bệnh nhân 4,8,1,phải ,0s27,18s13
+bệnh nhân 4,8,2,phải ,19s03,35s06
+bệnh nhân 4,8,3,phải ,35s26,51s05
+bệnh nhân 5,5,1,phải ,27s10,28s21
+bệnh nhân 5,5,2,phải ,30s01,31s10
+bệnh nhân 5,5,3,phải ,32s16,34s03
+bệnh nhân 5 ,5,4,phải ,35s07,36s10
+bệnh nhân 5,5,5,phải ,37s12,39s09
+bệnh nhân 5,5,1,trái ,4s15,6s07
+bệnh nhân 5,5,2,trái ,7s20,10s06
+bệnh nhân 5 ,5,3,trái ,11s19,13s21
+bệnh nhân 5 ,5,4,trái ,15s18,17s23
+bệnh nhân 5,5,5,trái ,19s08,22s07
+bệnh nhân 5 ,6,1,trái ,2s17,11s15
+bệnh nhân 5,6,2,trái ,13s25,26s03
+bệnh nhân 5,6,3,trái ,26s21,41s03
+bệnh nhân 5,6,4,trái ,41s03,52s22
